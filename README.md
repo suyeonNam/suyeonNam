@@ -36,4 +36,4 @@
 - I'm left-handed 😄
 - I stan Taylor Swift 🦋
 
-<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61&animation=fadeIn" width="1200px">
+<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61&animation=fadeIn" width="1200px">
