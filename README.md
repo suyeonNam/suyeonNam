@@ -12,7 +12,7 @@
 
 ### About me
 - interested in `React`, `iOS`, `Problem solving with C++`
-- now studying `Java`, `Linux`, `Degital Design`, `OpenGL`
+- now studying `Java`, `OpenGL`
 - I like to play `World of Warcraft`
 - I do love mint chocolate
 - I want to be a great front-end developer!
