@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=Hi!%20I'm%20Suyeon&fontSize=70&animation=fadeIn&fontAlignY=40)
+<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=Hi!%20I'm%20Suyeon&fontSize=60&animation=fadeIn&fontAlignY=40&animation=fadeIn" width="1200px">
 
 [![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F#suyeonNam)](https://github.com/suyeonNam)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://axe-num1.tistory.com)
@@ -36,4 +36,4 @@
 - I'm left-handed 😄
 - I stan Taylor Swift 🦋
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
+<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61&animation=fadeIn" width="1200px">
